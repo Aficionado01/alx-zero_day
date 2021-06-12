@@ -1,1 +1,1 @@
-*Make sure it ai'nt empty*
+*Make sure it ai'nt empty, okay?"
